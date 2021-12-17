@@ -1,0 +1,1 @@
+game.Players.LocalPlayer:kick("you have Ban from this game 999 year")
